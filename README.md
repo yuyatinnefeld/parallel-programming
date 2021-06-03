@@ -1,5 +1,5 @@
 <h1 align="center"> Python Parallel Programing </h1> <br>
-<h2>🐍 Table of Contents 🐍</h2>
+<h2>🚀 Table of Contents 🚀 </h2>
 
 - [About](#about)
 - [Info](#info)
