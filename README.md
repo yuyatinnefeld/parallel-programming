@@ -1,4 +1,4 @@
-<h1 align="center"> Python Parallel Programing </h1> <br>
+<h1 align="center"> Parallel Programing (Python / Java)</h1> <br>
 <h2>🚀 Table of Contents 🚀 </h2>
 
 - [About](#about)
@@ -8,7 +8,7 @@
 
 
 ## ⚡ About ⚡ 
-In this project you can learn Python parallel programming to execute multiple instructions simultaneously, increases the overall processing throughput
+In this project you can learn parallel programming (Python & Java) to execute multiple instructions simultaneously, increases the overall processing throughput
 This can help to writing faster and more efficient applications. 
 
 ## Info
